@@ -34,6 +34,7 @@ Developed a Healthcare Data Analysis Dashboard using Microsoft Excel to analyze 
 - Creating Pivot Tables for summarizing healthcare data.
 - Building charts to communicate analytical findings.
 - Designing dashboards to present key performance indicators.
-
+## Dashboard Preview
+- Healthcare Analysis(Screenshot 2026-11-23 111800.png)
 ## Conclusion
 This project demonstrates the application of Microsoft Excel for healthcare data analysis, data summarization, and visual storytelling through an analytical dashboard.
