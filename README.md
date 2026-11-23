@@ -1,7 +1,5 @@
-# Healthcare-Data-Analysis-Microsoft-Excel
-Healthcare Data Analysis Dashboard using Microsoft Excel, Pivot Tables, and Data Visualization to analyze patient trends and healthcare metrics.
 # Healthcare Data Analysis Dashboard | Microsoft Excel
-
+Healthcare Data Analysis Dashboard using Microsoft Excel, Pivot Tables, and Data Visualization to analyze patient trends and healthcare metrics.
 ## Project Overview
 Developed a Healthcare Data Analysis Dashboard using Microsoft Excel to analyze patient records and identify trends in hospital admissions, medical conditions, billing, and patient demographics.
 
